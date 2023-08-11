@@ -1,1 +1,1 @@
-# noteApp
+# accordion-component
